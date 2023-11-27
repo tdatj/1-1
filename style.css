@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 7rem;
+    color: #ED7D31;
+    text-align: center;
+}
+.rec{
+    border-radius: 10px;
+    position: relative;
+    margin: 0 auto;
+    border: 2px solid #F6F1EE;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    background: #4F4A45;
+}
+html{
+    background: #4F4A45;
+}
+
+div>p{
+    color: #F6F1EE;
+}
+
+div>a{
+    text-decoration: none;
+}
+
+.forgot{
+    border-radius: 10px;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    border: 2px solid #F6F1EE;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    background: #4F4A45;
+}
+
